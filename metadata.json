@@ -1,0 +1,6 @@
+{
+  "name": "Khmer Depot - Car & Motorcycle Care Store",
+  "description": "Professional mobile-first e-commerce store for Khmer Depot specializing in premium car and motorcycle cleaning products in Cambodia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
